@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @TheBloxyChaser
-- 👀 I’m interested in: Roblox
-- 🌱 I’m currently learning: Lua
-- 💞️ I’m looking to collaborate on: Nothing really
-- 📫 How to reach me: Discord thebloxychaser
+- 👋 Hi, I’m @lagfn
+- 👀 I’m interested in: Fortnite
+- 🌱 I’m currently learning: How to build
+- 💞️ I’m looking to collaborate on: Anything
+- 📫 How to reach me: Discord lagcommander10
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I suck
+- ⚡ Fun fact: I get bored easily
 
 <!---
 TheBloxyChaser/TheBloxyChaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
